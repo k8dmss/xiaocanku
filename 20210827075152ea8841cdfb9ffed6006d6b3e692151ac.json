@@ -1,0 +1,341 @@
+{
+  "app": "com.jiuwodongman.app",
+  "duration": "328ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.25",
+  "remotePort": 443,
+  "sessionId": "99deb2db-1cfc-4ec7-8cc6-83f0a8353e9c",
+  "time": "2021-08-27 07:46:50",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/341904f43701925920376399479/VnTbZCA8HjEA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "555ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.18",
+  "remotePort": 443,
+  "sessionId": "f4f5c86f-fc0c-43ec-b287-b3d6eee0a468",
+  "time": "2021-08-27 07:46:38",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/339a55093701925920376329367/5OVpuAZaH0gA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "238ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.18",
+  "remotePort": 443,
+  "sessionId": "241c7541-752e-46d1-8d17-ee65428722a7",
+  "time": "2021-08-27 07:46:32",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/381cb3e43701925920376502864/Ti38uINfWgcA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "722ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.18",
+  "remotePort": 443,
+  "sessionId": "78da8dd0-7cc5-4311-9163-840d17020965",
+  "time": "2021-08-27 07:46:24",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/339a54a63701925920376329337/H1eHsykqRrgA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "316ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.18",
+  "remotePort": 443,
+  "sessionId": "a8b567a2-ee95-4383-9a96-6878111c3831",
+  "time": "2021-08-27 07:46:13",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/381cb3c83701925920376502859/29ogQ2PAwckA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "580ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.18",
+  "remotePort": 443,
+  "sessionId": "070a1a9d-e99a-42ee-939f-0deee3472080",
+  "time": "2021-08-27 07:46:07",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/339a54873701925920376329329/jaEcnTzVrWIA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "303ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.18",
+  "remotePort": 443,
+  "sessionId": "201e22d3-bb46-46a4-a41f-bc352b67e485",
+  "time": "2021-08-27 07:46:02",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/341904703701925920376399439/NjcW5GQqovUA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "567ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.18",
+  "remotePort": 443,
+  "sessionId": "2d2b5c74-7630-43b7-8f6b-752087c423fc",
+  "time": "2021-08-27 07:45:52",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/381cab873701925920376502678/0qZHJtGBQuAA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "288ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.25",
+  "remotePort": 443,
+  "sessionId": "674b5bc2-a62e-45b9-a1f7-cd2d3ca90fc2",
+  "time": "2021-08-27 07:48:22",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/339a54813701925920376329323/EHbaC8PHAz8A.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "330ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.25",
+  "remotePort": 443,
+  "sessionId": "61893419-d166-4a65-a464-741f53f9d1a5",
+  "time": "2021-08-27 07:48:15",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/3419046f3701925920376399438/rPAFgJwJ6nYA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "295ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "117.169.98.185",
+  "remotePort": 443,
+  "sessionId": "f0b84fef-0a8d-465e-be7f-5e726cdeea52",
+  "time": "2021-08-27 07:48:02",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/3418fc4f3701925920376399267/4ZXf7I3JjLUA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "282ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "117.169.98.185",
+  "remotePort": 443,
+  "sessionId": "cb3bf4e9-8d1f-4646-8f95-9d9d0aa2a372",
+  "time": "2021-08-27 07:47:56",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/381cab853701925920376502676/xzY50GDL2bgA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "294ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "117.169.98.185",
+  "remotePort": 443,
+  "sessionId": "316d7f72-da81-4c95-bfa9-a0573c95ee53",
+  "time": "2021-08-27 07:47:49",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/339a4c3f3701925920376329141/0xEcck3lZ6MA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "355ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "117.169.98.185",
+  "remotePort": 443,
+  "sessionId": "3c7fed0f-d712-42d6-a0df-193f96786146",
+  "time": "2021-08-27 07:47:41",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/381cab863701925920376502677/FOi5EKTZfr4A.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "460ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.25",
+  "remotePort": 443,
+  "sessionId": "081d490e-a00c-4c1f-b512-0e02d6945dab",
+  "time": "2021-08-27 07:47:34",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/3418fc503701925920376399268/cWYONCAj8QMA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "262ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.25",
+  "remotePort": 443,
+  "sessionId": "3ee6edcf-7341-443e-96fc-5e4902031ef3",
+  "time": "2021-08-27 07:47:26",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/339a4c3e3701925920376329140/fRFvjkJqTEEA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "488ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.25",
+  "remotePort": 443,
+  "sessionId": "57fe2578-c40c-4e20-86bf-33d414204c41",
+  "time": "2021-08-27 07:47:18",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/381caba03701925920376502680/a2c3TEcA2ZEA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "271ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.25",
+  "remotePort": 443,
+  "sessionId": "26e5d8d3-93a2-46b1-9aaf-e016fc28fde8",
+  "time": "2021-08-27 07:47:11",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/381cab883701925920376502679/UxqoIOs4AwEA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "598ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.25",
+  "remotePort": 443,
+  "sessionId": "c18faf8a-fb14-4145-b478-961a06ff692e",
+  "time": "2021-08-27 07:47:05",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/3418fc513701925920376399269/ePFv9zRVa4YA.mp4"
+}{
+  "app": "com.jiuwodongman.app",
+  "duration": "402ms",
+  "headers": {
+    "User-Agent": "弹幕主义/1.0.1.2 (Linux;Android 10) ExoPlayerLib/2.9.1",
+    "Accept": "*/*",
+    "Range": "bytes\u003d0-",
+    "Connection": "close",
+    "Host": "1400307455.vod2.myqcloud.com"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "223.111.113.25",
+  "remotePort": 443,
+  "sessionId": "b52bd5ad-6703-43d9-b059-10d444725784",
+  "time": "2021-08-27 07:47:00",
+  "url": "https://1400307455.vod2.myqcloud.com/ff1e61ffvodcq1400307455/381cb4293701925920376502887/8X1mImEYHawA.mp4"
+}
