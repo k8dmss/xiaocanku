@@ -1,0 +1,3 @@
+<br />
+<b>Warning</b>:  file_get_contents(http://49.234.56.246/danmu/m3u8/2a787rIBk0h7nKheFxRFbwRljUqlCnOgL8-rGgQWGGGFwulPCWdn-Ej0Or16j6QVkIQQq2jQe9p3sQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in <b>/www/wwwroot/www.bimiacg.com/static/danmu/m3u8/play.php</b> on line <b>10</b><br />
