@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1.000000,
+https://bafybeiawcv2ybggw4osbn4zsy4zbbzcecn5zoqsnrbkv2phkfdxddos5ke.ipfs.dweb.link
+#EXTINF:1.000000,
+https://bafybeiguwg47tj3zyzhqptpyxoc2mvjqmrfyebmfvz4aenxthvpfk4xgx4.ipfs.dweb.link
+#EXTINF:0.966733,
+https://bafybeicne3rm4lnnzdkdrbwa4iqso5hd5v2i6yjedw43dzgqb7f7k4vsn4.ipfs.dweb.link
+#EXT-X-ENDLIST
